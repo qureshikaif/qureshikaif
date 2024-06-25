@@ -35,12 +35,12 @@ I'm a passionate **Software Engineer** who loves to build interactive web apps a
 - [**ADHD Coach**](https://github.com/janedoe/adhd-coach-native): A coaching app for ADHD management
 - [**SF Business Solutions**](https://github.com/janedoe/sf-business-ui): A professional business solutions website
 
+<!--
 ## 📜 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [How to get started with Flutter](https://yourblog.com/flutter-getting-started)
 - [JavaScript Tips and Tricks](https://yourblog.com/javascript-tips)
 - [Understanding AI and Machine Learning](https://yourblog.com/ai-ml-basics)
-<!-- BLOG-POST-LIST:END -->
+-->
 
 <!--
 ## 🏆 Achievements
