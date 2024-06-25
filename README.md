@@ -31,8 +31,8 @@ I'm a passionate **Software Engineer** who loves to build interactive web apps a
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio&color=34D058)](https://kaifqureshi.vercel.app)
 
 ## 🌟 Featured Projects
-- [**ADHD Coach Mobile App**](https://github.com/janedoe/adhd-coach-native): A coaching app for ADHD management
-- [**SF Business Solutions Website**](https://github.com/janedoe/sf-business-ui): A professional business solutions website
+- [**ADHD Coach**](https://github.com/janedoe/adhd-coach-native): A coaching app for ADHD management
+- [**SF Business Solutions**](https://github.com/janedoe/sf-business-ui): A professional business solutions website
 
 ## 📜 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -41,9 +41,17 @@ I'm a passionate **Software Engineer** who loves to build interactive web apps a
 - [Understanding AI and Machine Learning](https://yourblog.com/ai-ml-basics)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## 🏆 Achievements
 - 🥇 **Introduction to front end development - META** [Hackathon XYZ](https://link-to-hackathon.com)
 - 🎖️ **Top Contributor** at [Open Source Project ABC](https://link-to-project.com)
+-->
+
+## 🏆 Certifications
+- 🥇 **Introduction To Front End Development - Meta** [Link](https://www.coursera.org/account/accomplishments/verify/FYDQ4CYEZ6GT)
+- 🎖️ **Theoretical Understanding Of CSS - SoloLearn** [Link](https://www.sololearn.com/Certificate/CT-AQDIYOG4/png)
+- 🎖️ **Theoretical Understanding Of HTML - SoloLearn** [Link](https://www.sololearn.com/Certificate/CT-6DY9L5PF/png)
+- 🎖️ **Elementary Programming With C - Aptech** [Link](https://drive.google.com/file/d/1RMOlZN87uEfXgwaA2011Ld2M8OIyCU2e/view?pli=1)
 
 ## ✍️ Random Developer Quote
 _"First, solve the problem. Then, write the code." - John Johnson_
