@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kaif Qureshi
 
-![Profile Banner](https://example.com/banner.png)
+![Profile Banner](https://framerusercontent.com/assets/pwBHuaogX8VyNSrh9ziF3DxPNE.png)
 
 ## 🚀 About Me
 I'm a Software Engineer that builds interactive web apps and mobile applications.
@@ -26,10 +26,10 @@ I'm a Software Engineer that builds interactive web apps and mobile applications
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qureshikaif&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/janedoe)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/mohammad-kaif-qureshi-77052a1a5/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/janedoe)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://janedoe.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://kaifqureshi.vercel.app)
 
 ## 🌟 Featured Projects
-- [Project 1](https://github.com/janedoe/project1)
-- [Project 2](https://github.com/janedoe/project2)
+- [Project 1](https://github.com/janedoe/adhd-coach-native)
+- [Project 2](https://github.com/janedoe/sf-business-ui)
