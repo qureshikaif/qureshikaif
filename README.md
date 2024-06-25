@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Kaif Qureshi
 
+![Profile views](https://komarev.com/ghpvc/?username=qureshikaif)
+
 ## 🚀 About Me
 I'm a Software Engineer that builds interactive web apps and mobile applications.
 
