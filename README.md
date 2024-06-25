@@ -1,14 +1,12 @@
 # Hi there 👋, I'm Kaif Qureshi
 
-![Profile Banner](https://framerusercontent.com/assets/pwBHuaogX8VyNSrh9ziF3DxPNE.png)
-
 ## 🚀 About Me
 I'm a Software Engineer that builds interactive web apps and mobile applications.
 
-- 🔭 I’m currently working on LeafLink Mobile App.
+- 🔭 I’m currently working on LeafLink Mobile App for buildspace s5 program.
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on AI and Mobile Projects
-- 💬 Ask me about Javascript, Typescript
+- 💬 Ask me about Javascript, Typescript, C++ & Python
 - 📫 How to reach me: kaifqureshi.dev@gmail.com
 - ⚡ Fun fact: I love music
 
@@ -31,5 +29,5 @@ I'm a Software Engineer that builds interactive web apps and mobile applications
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://kaifqureshi.vercel.app)
 
 ## 🌟 Featured Projects
-- [Project 1](https://github.com/janedoe/adhd-coach-native)
-- [Project 2](https://github.com/janedoe/sf-business-ui)
+- [ADHD Coach Mobile App](https://github.com/janedoe/adhd-coach-native)
+- [SF Business Solutions Website](https://github.com/janedoe/sf-business-ui)
