@@ -42,7 +42,7 @@ I'm a passionate **Software Engineer** who loves to build interactive web apps a
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Achievements
-- 🥇 **1st Place** in [Hackathon XYZ](https://link-to-hackathon.com)
+- 🥇 **Introduction to front end development - META** [Hackathon XYZ](https://link-to-hackathon.com)
 - 🎖️ **Top Contributor** at [Open Source Project ABC](https://link-to-project.com)
 
 ## ✍️ Random Developer Quote
