@@ -5,8 +5,7 @@
 ## 🚀 About Me
 I'm a passionate **Software Engineer** who loves to build interactive web apps and mobile applications. My work is all about bringing ideas to life through code and design.
 
-- 🔭 I’m currently working on **LeafLink Mobile App** for the **Buildspace S5 program**
-- 🌱 I’m diving deep into **Flutter** and **DApps** to enhance my app and blockchain development skills
+- 🌱 I’m diving deep into **React Native** and **DApps** to enhance my app and blockchain development skills
 - 👯 I’m always open to collaborating on **AI, Web3, Mobile Projects & Web Projects**
 - 💬 Feel free to ask me about **JavaScript, TypeScript, Solidity, C++, and Python**
 - 📫 Reach out to me at **kaifqureshi.dev@gmail.com**
